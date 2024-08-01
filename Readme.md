@@ -1,4 +1,4 @@
-# ImageAI (v3.0.3)
+# CAMERA LENS
 
 [![Build Status](https://github.com/WingsDavis) 
 
@@ -10,7 +10,7 @@ This code uses OpenCV to load an image, create a circular mask, and apply the ma
 ## ---------------------------------------------------
 ## Image Credit
 
-[![](hanvin-cheong-4BGnUBL4Sbw-unsplash.jpg)](https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-4BGnUBL4Sbw)
+[![](https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-4BGnUBL4Sbw)]
 
 ## ---------------------------------------------------
  
