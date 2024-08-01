@@ -1,15 +1,13 @@
-# ImageAI (v3.0.3)
+# Camera Lens
 
 [![Build Status](https://github.com/WingsDavis) 
 
 This code uses OpenCV to load an image, create a circular mask, and apply the mask to the image to crop it to a rectangular shape.
  
- If you will like to sponsor this project, kindly visit the <strong>[Github sponsor page](https://github.com/sponsors/WingsDavis)</strong>.
- 
- 
+If you will like to collaborate on this project, kindly visit the <strong>[Github sponsor page](https://github.com/sponsors/WingsDavis)</strong>.
+
 ## ---------------------------------------------------
 ## Image Credit
-
 [hanvin-cheong-4BGnUBL4Sbw-unsplash](https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-4BGnUBL4Sbw)
 
 ## ---------------------------------------------------
